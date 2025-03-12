@@ -83,7 +83,6 @@
           {Credo.Check.Consistency.SpaceInParentheses, []},
           {Credo.Check.Consistency.TabsOrSpaces, []},
 
-          #
           ## Design Checks
           #
           # You can customize the priority of any check
