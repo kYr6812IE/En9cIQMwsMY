@@ -3,7 +3,6 @@ pull_request_rules:
   conditions:
     - status-success=build
     - "#changes-requested-reviews-by=0"
-    - base=master
     - label=dependencies
   actions:
     merge:
