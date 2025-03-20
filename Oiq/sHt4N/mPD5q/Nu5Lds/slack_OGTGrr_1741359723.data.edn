@@ -55,7 +55,6 @@
   clojurewerkz.quartzite.jobs/with-description                                         [[:default]]
   clojurewerkz.quartzite.jobs/with-identity                                            [[:default]]
   clojurewerkz.quartzite.schedule.cron/schedule                                        [[:default]]
-  clojurewerkz.quartzite.schedule.cron/with-misfire-handling-instruction-do-nothing    [[:default]]
   clojurewerkz.quartzite.triggers/build                                                [[:default]]
   clojurewerkz.quartzite.triggers/with-description                                     [[:default]]
   clojurewerkz.quartzite.triggers/with-identity                                        [[:default]]
