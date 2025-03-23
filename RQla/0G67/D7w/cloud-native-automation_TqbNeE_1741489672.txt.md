@@ -45,7 +45,6 @@ Describe the tools, environments, and assumed skills needed to understand the qu
 As briefly as possible, walk through the steps to deploy.
 
 ## Architecture and Details
-
 Please include a deeper explanation of the showcase that get deployed and the recommended usage pattern to best showcase the feature
 ```
 
