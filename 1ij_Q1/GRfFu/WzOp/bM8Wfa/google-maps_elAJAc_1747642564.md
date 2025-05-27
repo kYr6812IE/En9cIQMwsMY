@@ -7,7 +7,6 @@
 - npm
 - grunt-cli
 - Texteditor (recommended: Sublime)
-
 ## Coding Style
 
 ### Tabs or Spaces?
