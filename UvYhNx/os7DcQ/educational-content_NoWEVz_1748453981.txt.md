@@ -182,7 +182,6 @@ In our final year, after students have returned from their placement year, we mo
 
 + Knowlton, B., 2012. [A Practical Guide to Managing Web Projects.](http://www.fivesimplesteps.com/products/a-practical-guide-to-managing-web-projects) Penarth: Five Simple Steps.
 + Osterwalder, A., and Pigneur, Y., 2010. [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers.](http://www.amazon.co.uk/exec/obidos/ASIN/0470876417/monographic-21) London: John Wiley & Sons.
-+ Ries, E., 2011. [The Lean Startup: How Constant Innovation Creates Radically Successful Businesses.](http://www.amazon.co.uk/exec/obidos/ASIN/0670921602/monographic-21) London: Portfolio Penguin.
 + Fried, J., and Heinemeier Hansson, D., 2010. [Rework.](http://www.amazon.co.uk/exec/obidos/ASIN/0091929784/monographic-21) London: Vermilion.
 + Murphy, C., 2014. [Talkaboutability.](http://tinybooks.org) Belfast: Tiny Books.
 
